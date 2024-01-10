@@ -15,7 +15,7 @@ This project revolves around a comprehensive data analysis of Vrinda Store's per
 ## Conclusion:
 Target Women Customers of Age group (26-49 yrs) living in Maharashra, Karnataka and Uttar Pradesh by showing ads/offers/coupones available on Amazon, Flipkart and Myntra.
 
-Suggestions:
+## Suggestions:
 - Develop targeted marketing for teenagers and seniors wih Adults.
 - Prioritize top-selling regions and implement customized strategies for areas with lower sales to optimize overall performance.
 - Optimize marketing channels for maximum impact.
