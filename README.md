@@ -3,7 +3,7 @@
 This project revolves around a comprehensive data analysis of Vrinda Store's performance in 2022, employing Excel to extract valuable insights. The dashboard we made is like a summary of the important stuff. Here's what we found.
 
 ## Insights:
-- March stands out with the highest sales, while November records the lowest sales.
+- March has the highest sales and orders, while November records the lowest performance.
 - Women make up 64% of total sales, showing a higher likelihood of purchasing compared to men.
 - Top three states for sales: Maharashtra, Karnataka, and Uttar Pradesh, contributing to 36% of total sales.
 - Order status breakdown: 92% delivered, 3% returned, 3% canceled, and 2% refunded.
