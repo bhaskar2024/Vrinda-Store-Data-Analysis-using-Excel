@@ -3,6 +3,7 @@
 This project revolves around a comprehensive data analysis of Vrinda Store's performance in 2022, employing Excel to extract valuable insights. The dashboard we made is like a summary of the important stuff. Here's what we found.
 
 ## Insights:
+- March stands out with the highest sales, while November records the lowest sales.
 - Women make up 64% of total sales, showing a higher likelihood of purchasing compared to men.
 - Top three states for sales: Maharashtra, Karnataka, and Uttar Pradesh, contributing to 36% of total sales.
 - Order status breakdown: 92% delivered, 3% returned, 3% canceled, and 2% refunded.
@@ -18,5 +19,5 @@ Target Women Customers of Age group (26-49 yrs) living in Maharashra, Karnataka 
 ## Suggestions:
 - Develop targeted marketing for teenagers and seniors wih Adults.
 - Prioritize top-selling regions and implement customized strategies for areas with lower sales to optimize overall performance.
-- Optimize marketing channels for maximum impact.
+- Keep using Amazon, Myntra, and Flipkart - they're bringing in most of the sales.
 - Implement initiatives to enhance customer retention.
