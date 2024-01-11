@@ -1,17 +1,18 @@
-# Vrinda-Store-Data-Analysis-using-Excel.
+![image](https://github.com/bhaskar2024/Vrinda-Store-Data-Analysis-using-Excel./assets/151936998/53d7157c-ea8b-4a32-aa74-e4629f3ad56c)# Vrinda-Store-Data-Analysis-using-Excel.
 ## Description:
 This project revolves around a comprehensive data analysis of Vrinda Store's performance in 2022, employing Excel to extract valuable insights. The dashboard we made is like a summary of the important stuff. Here's what we found.
 
 ## Insights:
 - March has the highest sales and orders, while November records the lowest performance.
-- Women make up 64% of total sales, showing a higher likelihood of purchasing compared to men.
-- Top three states for sales: Maharashtra, Karnataka, and Uttar Pradesh, contributing to 36% of total sales.
-- Order status breakdown: 92% delivered, 3% returned, 3% canceled, and 2% refunded.
-- Age group contribution: Adult group (26-49 yrs) leads with 60%, followed by seniors (more than 50) at 19.6%, and teenagers 
-  (less than 26 yrs) at 20%.
-- Best-selling product categories: Set category leads with 40%, followed by Kurta (33.66%) and Western Dress (13%).
-- Marketing channel contribution: Amazon, Myntra, and Flipkart contribute nearly 80% to total sales.
-- Low-performing states: Meghalaya, Dadra, and Ladakh exhibit lower sales.
+- Women Contribute to 64% to total sales, showing a higher likelihood of purchasing compared to men.
+- Adult age group (26-49 yrs) is maximum contributing (∼60%), followed by Seniors at 19.6% and teenager at 20%.
+- Maharashtra, Karnataka and Uttar Pardesh are the top 3 states (∼36%).
+- Meghalaya, Dadra, and Ladakh show lower sales, likely due to their smaller populations compared to high-performing states
+- Order process is doing well: 92% delivered, 3% returned, 3% canceled, 2% refunded.
+- Set(40%), Kurta(34%) and Western dress(13%) are top selling product categories.
+- Amazon, Myntra, and Flipkart Channels contribute maximum to total sales (∼80%)
+
+
 
 ## Conclusion:
 Target Women Customers of Age group (26-49 yrs) living in Maharashra, Karnataka and Uttar Pradesh by showing ads/offers/coupones available on Amazon, Flipkart and Myntra.
