@@ -1,4 +1,4 @@
-# Vrinda-Store-Data-Analysis-using-Excel.
+# Vrinda-Store-Data-Analysis-using-Excel
 ## Description:
 This project revolves around a comprehensive data analysis of Vrinda Store's performance in 2022, employing Excel to extract valuable insights. The dashboard we made is like a summary of the important stuff. Here's what we found.
 
